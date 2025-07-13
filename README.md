@@ -138,6 +138,7 @@ Possible gender disparity worth investigating further
 ---
 
 📌 Key Takeaways
+
 --High Attrition Risk Groups:
 
 Employees aged 26–35
