@@ -60,6 +60,81 @@ The Power BI dashboard visualizes key HR metrics from a sample employee dataset.
 
 ---
 
+✅ Overall Workforce Insights
+Total employees: 1,470
+
+Total attrition cases: 237
+
+Attrition rate: 16%
+
+Average employee age: 37 years
+
+Average tenure: 7 years
+
+Average monthly salary: ₹6.5K
+
+
+##📌 Attrition by Education
+Life Sciences: 38% of total attrition
+
+Medical: 27%
+
+Marketing: 15%
+
+Technical Degree: 14%
+
+Suggests higher attrition in science-related backgrounds
+
+##📌 Attrition by Age Group
+26–35 years group shows the highest attrition: 116 cases
+
+Followed by 18–25 and 36–45
+
+Young professionals are most likely to leave — possible career-switching or unmet growth expectations
+
+##📌 Attrition by Salary Slab
+Upto ₹5K salary accounts for ~69% of attrition (163 out of 237)
+
+Only 5 cases above ₹15K
+
+Strong indicator that low pay is a key driver of attrition
+
+##📌 Attrition by Job Role
+Top 3 roles with highest attrition:
+
+Laboratory Technician: 62
+
+Sales Executive: 57
+
+Research Scientist: 47
+
+Roles with the least attrition:
+
+Research Director: 2
+
+Manager: 5
+
+##📌 Job Role vs. Satisfaction
+Most employees leaving had satisfaction scores of 2 or 3
+
+Lab Technicians, Sales Executives, and Research Scientists show notable dissatisfaction
+
+Not all attrition comes from lowest satisfaction scores — signals deeper engagement issues
+
+##📌 Attrition by Tenure
+Highest exits happen in Year 1: 59 employees
+
+A small spike at Year 10 (18 cases) — possibly due to plateaued career growth
+
+Retention efforts should target new hires and long-tenured staff
+
+##📌 Attrition by Gender
+Male attrition: 150 cases (63%)
+
+Female attrition: 87 cases (37%)
+
+Possible gender disparity worth investigating further
+
 ## ▶️ How to Use
 
 1. Download the `.pbix` file from this repository.
