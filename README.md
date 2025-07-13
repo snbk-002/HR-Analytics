@@ -64,9 +64,6 @@ The Power BI dashboard visualizes key HR metrics from a sample employee dataset.
 
 1. Download the `.pbix` file from this repository.
 2. Open it in **Power BI Desktop** (download: [powerbi.microsoft.com](https://powerbi.microsoft.com)).
-3. Explore and interact with the filters and visuals.
-4. (Optional) Connect your own HR dataset by updating the data source and refreshing the report.
-
 ---
 
 
