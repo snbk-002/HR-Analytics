@@ -135,6 +135,29 @@ Female attrition: 87 cases (37%)
 
 Possible gender disparity worth investigating further
 
+
+
+📌 Key Takeaways
+--High Attrition Risk Groups:
+
+Employees aged 26–35
+
+Earning below ₹5k
+
+Working in Sales and Laboratory roles
+
+Satisfaction scores of 2–3
+
+--Focus Areas for HR:
+
+Improve compensation strategy for low earners
+
+Strengthen early engagement programs (especially in Year 1)
+
+Reassess role satisfaction and development for Lab & Sales teams
+
+Build career paths for mid-satisfied employees to retain them
+
 ## ▶️ How to Use
 
 1. Download the `.pbix` file from this repository.
