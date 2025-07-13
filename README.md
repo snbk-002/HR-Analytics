@@ -1,7 +1,10 @@
 # HR-Analytics
-HR Analytics Power BI dashboard
 
 # 🧠 HR Analytics Power BI Dashboard
+
+## 📷 Screenshots
+<img width="1321" height="742" alt="Screenshot 2025-01-10 124825" src="https://github.com/user-attachments/assets/6f8b2561-1125-4317-8a4a-fb9993b4707a" />
+
 
 This project contains a comprehensive **HR Analytics Dashboard** built using **Microsoft Power BI**. The dashboard offers actionable insights into employee data, helping HR professionals and management teams make informed decisions regarding workforce planning, retention strategies, and performance optimization.
 
@@ -66,8 +69,6 @@ The Power BI dashboard visualizes key HR metrics from a sample employee dataset.
 
 ---
 
-## 📷 Screenshots
-<img width="1321" height="742" alt="Screenshot 2025-01-10 124825" src="https://github.com/user-attachments/assets/6f8b2561-1125-4317-8a4a-fb9993b4707a" />
 
 
 
