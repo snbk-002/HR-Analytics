@@ -68,5 +68,5 @@ The Power BI dashboard visualizes key HR metrics from a sample employee dataset.
 
 ## 📷 Screenshots
 
-"A:\Power BI\Projects_powerbi\HR Analytics\Screenshot 2025-01-10 124825.png"
+A:\Power BI\Projects_powerbi\HR Analytics\Screenshot 2025-01-10 124825.png
 
